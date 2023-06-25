@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "110169318047",
+    "project_id": "attendance-nmsct",
+    "storage_bucket": "attendance-nmsct.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110169318047:android:8a21f52c1c46470ee578aa",
+        "android_client_info": {
+          "package_name": "com.example.attendance_nmsct"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110169318047-dq9efsn2av48k3sb3o8602lb5hb25lid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnYZtHRQeixrLf6KizoZtI7MsAbYGZwQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110169318047-dq9efsn2av48k3sb3o8602lb5hb25lid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
