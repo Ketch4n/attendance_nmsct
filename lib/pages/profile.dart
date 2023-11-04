@@ -41,7 +41,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
       actions: <BottomSheetAction>[
         BottomSheetAction(
             title: const Text(
-              'Upload Photo',
+              'Upload Profile Pic',
               style: TextStyle(
                   fontSize: 18, color: Colors.black, fontFamily: "NexaBold"),
             ),
